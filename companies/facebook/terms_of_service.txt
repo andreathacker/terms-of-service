@@ -5,6 +5,8 @@ This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") d
 Because Facebook provides a wide range of Services, we may ask you to review and accept supplemental terms that apply to your interaction with a specific app, product, or service. To the extent those supplemental terms conflict with this SRR, the supplemental terms associated with the app, product, or service govern with respect to your use of such app, product or service to the extent of the conflict.
 Privacy
 
+** new test text **
+
 Your privacy is very important to us. We designed our Data Policy to make important disclosures about how you can use Facebook to share with others and how we collect and can use your content and information. We encourage you to read the Data Policy, and to use it to help you make informed decisions.
 
 Sharing Your Content and Information
